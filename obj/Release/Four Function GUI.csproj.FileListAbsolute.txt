@@ -1,0 +1,9 @@
+C:\Users\christopher\source\repos\Four Function GUI\Four Function GUI\bin\Release\Four Function GUI.exe.config
+C:\Users\christopher\source\repos\Four Function GUI\Four Function GUI\bin\Release\Four Function GUI.exe
+C:\Users\christopher\source\repos\Four Function GUI\Four Function GUI\bin\Release\Four Function GUI.pdb
+C:\Users\christopher\source\repos\Four Function GUI\Four Function GUI\obj\Release\Four_Function_GUI.Form1.resources
+C:\Users\christopher\source\repos\Four Function GUI\Four Function GUI\obj\Release\Four_Function_GUI.Properties.Resources.resources
+C:\Users\christopher\source\repos\Four Function GUI\Four Function GUI\obj\Release\Four Function GUI.csproj.GenerateResource.cache
+C:\Users\christopher\source\repos\Four Function GUI\Four Function GUI\obj\Release\Four Function GUI.csproj.CoreCompileInputs.cache
+C:\Users\christopher\source\repos\Four Function GUI\Four Function GUI\obj\Release\Four Function GUI.exe
+C:\Users\christopher\source\repos\Four Function GUI\Four Function GUI\obj\Release\Four Function GUI.pdb
